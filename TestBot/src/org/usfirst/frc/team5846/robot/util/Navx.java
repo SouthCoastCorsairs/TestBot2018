@@ -1,4 +1,4 @@
-package org.usfirst.frc.team5846.util;
+package org.usfirst.frc.team5846.robot.util;
 
 import org.usfirst.frc.team5846.robot.Robot;
 import org.usfirst.frc.team5846.robot.commands.TurnAngle;

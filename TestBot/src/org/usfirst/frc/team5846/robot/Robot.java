@@ -14,7 +14,7 @@ import org.usfirst.frc.team5846.robot.auto.TurnToAngle;
 import org.usfirst.frc.team5846.robot.subsystems.BoxHolder;
 import org.usfirst.frc.team5846.robot.subsystems.Drivetrain;
 import org.usfirst.frc.team5846.robot.subsystems.Pneumatics;
-import org.usfirst.frc.team5846.util.Navx;
+import org.usfirst.frc.team5846.robot.util.Navx;
 
 import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.DriverStation;
